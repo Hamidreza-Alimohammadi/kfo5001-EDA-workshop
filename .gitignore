@@ -1,0 +1,21 @@
+# Python / notebook clutter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS clutter
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+*.env
+.env.*
+
+# original data
+/data/original/
+
+# private development material
+/.ai_notes/
+/init.md
+/presentation/

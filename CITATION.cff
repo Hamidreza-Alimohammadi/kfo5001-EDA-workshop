@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite this workshop repository if you refer to its educational materials."
+title: "A Hands-On Session on Exploratory Data Analysis: From Patterns to Insight"
+type: software
+authors:
+  - family-names: Alimohammadi
+    given-names: Hamidreza
+year: 2026
+repository-code: "https://github.com/Hamidreza-Alimohammadi/kfo5001-EDA-workshop"
+license: "LicenseRef-Proprietary"
